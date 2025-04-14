@@ -31,6 +31,7 @@
 - **Languages**:
 
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -39,7 +40,8 @@
 
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![REACT](https://img.shields.io/badge/REACT%20-000000.svg?style=for-the-badge&logo=react&logoColor=white)
+    ![REACT](https://img.shields.io/badge/REACT%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
     ![Jinja](https://img.shields.io/badge/JINJA%20-ff0000.svg?style=for-the-badge&logo=jinja&logoColor=white)
 
 <br>
