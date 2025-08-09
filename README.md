@@ -16,7 +16,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I'm working at OneNine company.
 - :building_construction: I am a SaaS builder. My latest product is <a href="https://flowy.business" target="_blank">Flowy.business</a>, an advanced scheduling and AI-powered content generation platform built with Next.js, PostgreSQL, and OpenAI.
-- :nerd_face: Always `learning new things`.
+- :handshake: <a href="https://www.linkedin.com/in/conner-ducanhtran/" target="_blank">Follow me on LinkedIn</a>.
   <br>
 
 <br><br>
